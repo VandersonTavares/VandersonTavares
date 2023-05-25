@@ -1,4 +1,4 @@
-### Olá! ✌️
+### Olá! ✌️, meu nome é Vanderson, sou desenvolvedor React.js front-end.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-tavares-da-silva-77832b222/)
 
