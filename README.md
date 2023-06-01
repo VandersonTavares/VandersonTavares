@@ -3,7 +3,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-tavares-da-silva-77832b222/)
 
-![Vanderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=VandersonTavares&theme=blue-green)
+<!-- ![Vanderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=VandersonTavares&theme=blue-green) -->
 
 
 ### Conhecimento em:
