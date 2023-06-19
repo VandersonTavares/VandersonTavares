@@ -1,7 +1,9 @@
 ### Olá! ✌️, meu nome é Vanderson, sou desenvolvedor React.js front-end.
 - Atualizando Portfolio
+- Acesse [aqui](https://www.linkedin.com/in/vanderson-tavares-da-silva-77832b222/) meu Linkedin.
+- Acesse [aqui](https://vandersontavares.netlify.app/) meu Portfolio.
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-tavares-da-silva-77832b222/)
+<!--[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-tavares-da-silva-77832b222/) -->
 
 <!-- ![Vanderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=VandersonTavares&theme=blue-green) -->
 
