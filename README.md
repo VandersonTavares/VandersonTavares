@@ -1,4 +1,4 @@
-### Olá! ✌️, meu nome é Vanderson, sou desenvolvedor React.js front-end.
+### Olá! ✌️, meu nome é Vanderson, sou desenvolvedor frontend React.js.
 - Atualizando Portfolio
 - Acesse [aqui](https://www.linkedin.com/in/vanderson-tavares-da-silva-77832b222/) meu Linkedin.
 - Acesse [aqui](https://vandersontavares.netlify.app/) meu Portfolio.
